@@ -6,3 +6,4 @@ List
 ---
 - [Containers&Access](https://github.com/AHEAD94/cpp-techniques/tree/main/Containers%26Access/)
 - [CustomLiterals](https://github.com/AHEAD94/cpp-techniques/tree/main/CustomLiterals/)
+- [TypeCasting](https://github.com/AHEAD94/cpp-techniques/tree/main/TypeCasting/)
