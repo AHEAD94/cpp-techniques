@@ -86,7 +86,6 @@ C++의 명시적 캐스팅 종류는 다음과 같다.
   - 주로 레거시 코드와의 호환성을 위해 사용
 - 예시
   ```cpp
-  // 클래스 정의
   void printValue(const int* value) {
     // const 제거
     int* nonConstValue = const_cast<int*>(value);
