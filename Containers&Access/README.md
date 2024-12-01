@@ -1,8 +1,8 @@
 # STL Containers and Access Methods
 
 | Access Method           | std::vector | std::array | std::string | std::deque | std::list | std::set / std::map |
-|--------------------------|-------------|------------|-------------|------------|-----------|---------------------|
-| Pointer (`data()`)       | ✅          | ✅         | ✅          | ❌         | ❌        | ❌                  |
+|-------------------------|-------------|------------|-------------|------------|-----------|---------------------|
+| Pointer (`data()`)      | ✅          | ✅         | ✅          | ❌         | ❌        | ❌                  |
 | Iterator                | ✅          | ✅         | ✅          | ✅         | ✅        | ✅                  |
 | `std::next`             | ✅          | ✅         | ✅          | ✅         | ✅        | ✅                  |
 | Range-based for loop    | ✅          | ✅         | ✅          | ✅         | ✅        | ✅                  |
@@ -10,8 +10,8 @@
 | `at()` method           | ✅          | ✅         | ✅          | ❌         | ❌        | ❌                  |
 | `std::for_each`         | ✅          | ✅         | ✅          | ✅         | ✅        | ✅                  |
 
-Examples
-
+## Examples
+  
 ```cpp
 // Pointer( data() )
 int* ptr = vector_test.data(); // referencing 1st element of vector
