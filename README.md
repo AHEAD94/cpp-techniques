@@ -5,4 +5,5 @@ A collection of advanced C++ coding techniques, patterns, and best practices.
 ## Contents  
 - [Containers&Access](https://github.com/AHEAD94/cpp-techniques/tree/main/Containers%26Access/)
 - [CustomLiterals](https://github.com/AHEAD94/cpp-techniques/tree/main/CustomLiterals/)
+- [Template](https://github.com/AHEAD94/cpp-techniques/tree/main/Template/)
 - [TypeCasting](https://github.com/AHEAD94/cpp-techniques/tree/main/TypeCasting/)
